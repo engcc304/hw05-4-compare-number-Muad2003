@@ -44,7 +44,7 @@ int main() {
     }
     else if ( inputone < inputtwo ) 
     {
-        printf( "Number1 lower Number2" ) ;
+        printf( "Number1 lower than Number2" ) ;
     }
 
     return 0;
